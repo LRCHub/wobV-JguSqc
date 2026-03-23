@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "独白",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-23T04:31:53.361662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "独白",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_独白_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "独白",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_独白_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "独白",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/03_独白_yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "独白(検閲済み)",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/04_独白(検閲済み)_amazarashi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "独白 - カンザキイオリ Remix",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/05_独白_-_カンザキイオリ_Remix_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "独白(《天乩之白蛇传说》电视剧插曲)",
+      "artist": "Zhou Shen",
+      "has_synced": true,
+      "path": "select/06_独白(《天乩之白蛇传说》电视剧插曲)_Zhou_Shen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "独白（検閲済み）",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/07_独白(検閲済み)_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "独白",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/08_独白_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "独白",
+      "artist": "H△G",
+      "has_synced": false,
+      "path": "select/09_独白_H△G.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "独白（カンザキイオリ Remix）",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/10_独白(カンザキイオリ_Remix)_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "独白 (Inst.)",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/11_独白_(Inst.)_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dokuhaku 「独白」",
+      "artist": "Yama",
+      "has_synced": true,
+      "path": "select/12_Dokuhaku_「独白」_Yama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "独白、通学路にて",
+      "artist": "卯花ロク feat.初音ミク",
+      "has_synced": true,
+      "path": "select/13_独白、通学路にて_卯花ロク_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "5.独白、告白",
+      "artist": "D2T",
+      "has_synced": true,
+      "path": "select/14_5.独白、告白_D2T.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "これだけは、分かっていってほしい -独白-Before U Go (Monologue)",
+      "artist": "東方神起",
+      "has_synced": false,
+      "path": "select/15_これだけは、分かっていってほしい_-独白-Before_U_Go_(Monologue)_東方神起.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "独白-(电视剧《天乩之白蛇传说》插曲)",
+      "artist": "周深",
+      "has_synced": true,
+      "path": "select/16_独白-(电视剧《天乩之白蛇传说》插曲)_周深.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "独白（カンザキイオリ Remix） - Monologue (Iori Kanzaki Remix)",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/17_独白(カンザキイオリ_Remix)_-_Monologue_(Iori_Kanzaki_Remix)_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "独白",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_独白_DUSTCELL.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "独白",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_01_独白_DUSTCELL.txt",
+      "repo_name": "O5fFwCAm_Nk"
+    }
+  ]
+}
